@@ -7,6 +7,6 @@
 - I'm a javafx fan
 
 <details>
-	<summary>Most Used Languages</summary>
+	<summary>Status</summary>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalmf&hide=TeX&layout=compact">
 </details>
