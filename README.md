@@ -3,5 +3,6 @@
 
 ## Hi, I'm Rizal
 
-
+<details>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizalmf&hide=TeX&layout=compact)
+</details>
