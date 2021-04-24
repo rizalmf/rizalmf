@@ -3,6 +3,9 @@
 
 ## Hi, I'm Rizal
 
+- I’m currently working full-time as an backend engineer at Majoo Indonesia
+- I'm a javafx fan
+
 <details>
 	<summary>Most Used Languages</summary>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalmf&hide=TeX&layout=compact">
