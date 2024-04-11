@@ -3,7 +3,7 @@
 
 ## Hi, I'm Rizal :D
 
-- I’m currently working full-time as an backend engineer at Majoo Indonesia
+- I’m currently working at Majoo Indonesia
 - Javafx fan? I do :))
 
 <details>
